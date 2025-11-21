@@ -1,0 +1,44 @@
+{
+  "ADMIN": {
+    "password": "042ac5b8da4052545d4b28fe223994711495be3cdeeb8a1f3e2a9d7d8bbae87c",
+    "locked": false,
+    "restriction": true,
+    "access_level": 2,
+    "questions_completed": 0
+  },
+  "moderator1": {
+    "password": "08389ec21e094342a0d7aaeb2ea21e184531a12f399b99f1efc29a1bea2143da",
+    "locked": false,
+    "restriction": true,
+    "access_level": 1,
+    "questions_completed": 0
+  },
+  "user1": {
+    "password": "af1c08098cf119bb4981729721714a4b9948dbcb6b5fff21cb0f45f06ad1f7ea",
+    "locked": false,
+    "restriction": true,
+    "access_level": 1,
+    "questions_completed": 0
+  },
+  "user2": {
+    "password": "7d51e8b299df8c003c0597439d1a76c9743b8e1e35d3268498a0e6f5da10f3c7",
+    "locked": false,
+    "restriction": true,
+    "access_level": 0,
+    "questions_completed": 0
+  },
+  "user3": {
+    "password": "",
+    "locked": false,
+    "restriction": true,
+    "access_level": 0,
+    "questions_completed": 0
+  },
+  "user4": {
+    "password": "",
+    "locked": false,
+    "restriction": true,
+    "access_level": 0,
+    "questions_completed": 0
+  }
+}

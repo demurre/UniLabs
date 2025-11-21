@@ -1,0 +1,29 @@
+{
+  "ADMIN": {
+    "ADMIN_0": {
+      "start_time": "2025-11-16T16:21:03.938154",
+      "date": "2025-11-16",
+      "status": "active"
+    },
+    "ADMIN_1": {
+      "start_time": "2025-11-16T16:21:54.370456",
+      "date": "2025-11-16",
+      "status": "active"
+    },
+    "ADMIN_2": {
+      "start_time": "2025-11-16T16:22:42.487734",
+      "date": "2025-11-16",
+      "status": "active"
+    },
+    "ADMIN_3": {
+      "start_time": "2025-11-16T16:24:11.875842",
+      "date": "2025-11-16",
+      "status": "active"
+    },
+    "ADMIN_4": {
+      "start_time": "2025-11-16T16:24:30.991428",
+      "date": "2025-11-16",
+      "status": "active"
+    }
+  }
+}
